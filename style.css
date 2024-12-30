@@ -70,6 +70,7 @@ body {
   margin-top: 2rem;
   display: block;
   text-decoration: none;
+  color: var(--gray-950);
 }
 
 .title:hover {

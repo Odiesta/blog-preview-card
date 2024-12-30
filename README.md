@@ -35,7 +35,7 @@ Users should be able to:
 
 ## My process
 
-i start with writing the html based on the design. i pick the appropriate tag for element, and class name based on what the content actually do. after that i start with mobile design first. i set the font size on html tag to 62.5% so that 1rem equal to 10px to make it easier to set font size and support scaling on zoom. i use CSS custom properties to create variable for color to make it easier. To make container center i use height: 100vh in the body to make it cover entire display and display flex to center the child element. i use sub-container so that i don't need to set horizontal margin on each element. i set spacing on each element by using margin top so that each element does not have to depend on previous element margin. i use max-width of 40rem so that the container don't widen beyond the appropriate size. for the profile image i use scale to 0.6 to make it smaller, then the margin of the image change. to fix it i set the margin left to -1.2rem.
+I begin by writing the HTML according to the design, carefully selecting tags and class names based on the content's purpose; then, I focus on mobile design first, setting the font size on the HTML tag to 62.5% to ensure 1rem equals 10px for easier scaling, i use CSS custom properties to create variable for color to make it easier. To make container center i use height: 100vh in the body to make it cover entire display and display flex to center the child element. i use sub-container so that i don't need to set horizontal margin on each element. i set spacing on each element by using margin top so that each element does not have to depend on previous element margin. i use max-width of 40rem so that the container don't widen beyond the appropriate size. for the profile image i use scale to 0.6 to make it smaller, then the margin of the image change. to fix it i set the margin left to -1.2rem.
 
 ### Built with
 
@@ -46,7 +46,7 @@ i start with writing the html based on the design. i pick the appropriate tag fo
 
 ### What I learned
 
-i learn that having design file first before coding make it faster and better to finish it as i don't need to think about where to place layout, element, what color, font to choose. having both desktop and mobile version make it easier in code to create both version neatly. i learn to use technology appropriately based on size and complexity of project. before it i use sass in every project.
+I've learned that starting with a design file before coding streamlines the process and improves the outcome, as it eliminates the need to decide on layouts, colors, and fonts; creating both desktop and mobile versions simplifies coding, and I now choose technologies based on the project's size and complexity, rather than using Sass for every project.
 
 ### Continued development
 

@@ -71,6 +71,7 @@ body {
   display: block;
   text-decoration: none;
   color: var(--gray-950);
+  font-weight: 900;
 }
 
 .title:hover {
@@ -98,6 +99,6 @@ body {
 }
 
 .profile-name {
-  font-weight: 900;
+  font-weight: 700;
   font-size: 1.4rem;
 }

@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card Github](https://github.com/Odiesta/blog-preview-card)
+- Live Site URL: [Blog Preview Card Site](https://moonlit-dragon-ebf660.netlify.app/)
 
 ## My process
 
